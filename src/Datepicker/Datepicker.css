@@ -1,0 +1,47 @@
+.datePicker {
+  position: absolute;
+  top: 2.15rem;
+  left: 21.2%;
+  width: 100vw;
+}
+
+.datePicker > h2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 34.8rem;
+  padding: 0.7rem;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  top: 21rem;
+}
+
+.datePicker > input {
+  width: 34.8rem;
+  padding: 0.7rem;
+  position: absolute;
+  left: 0;
+  height: 1.9rem;
+  top: 24rem;
+  border: none;
+}
+
+.datePicker > input:focus {
+  outline-width: 0;
+}
+
+.datePicker > button {
+  position: absolute;
+  left: 0;
+  top: 27rem;
+  width: 36.2rem;
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+}
+
+.datePicker > button:hover {
+  background-color: white;
+  color: #ff7779;
+}

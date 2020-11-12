@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  padding: 1.6rem;
+  background-color: #f7f7f7;
+  border-top: 0.1rem solid lightgray;
+  bottom: 0;
+  color: gray;
+}
+.footer > p {
+  padding: 0.2rem;
+  font-size: 0.85rem;
+}

@@ -1,0 +1,43 @@
+.banner {
+  height: 50vh;
+
+  position: relative; /* if you want to position sth inside of it */
+  background: url("https://images.unsplash.com/photo-1562825606-7e7187e44a83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80")
+    no-repeat center center;
+  background-size: 100%;
+}
+.banner__info {
+  background-color: black;
+  color: white;
+  width: 20rem;
+  padding: 25.5vh 3rem 3rem 2.5rem;
+}
+
+.banner__info > button {
+  background-color: #ff7779;
+  color: white;
+  margin-top: 1.5rem;
+  text-transform: inherit;
+  font-weight: 600;
+}
+
+.banner__info > button:hover {
+  color: #ff7779;
+  background-color: white;
+}
+
+.banner__info > h5 {
+  margin-top: 0.7rem;
+}
+
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+}
+
+.banner__search {
+  display: flex;
+  flex-direction: column;
+}
