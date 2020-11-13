@@ -1,4 +1,4 @@
-##This is an Airbnb Clone build with React JS
+## This is an Airbnb Clone build with React JS
 
 Build with CleverProgrammer Tutorial on Youtube, Thank you guys!!
 
