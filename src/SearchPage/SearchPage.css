@@ -1,0 +1,21 @@
+.searchPage__info > button {
+  margin: 0.5rem;
+  border-radius: 1.5rem;
+  text-transform: inherit;
+  margin-left: 0;
+}
+
+.searchPage__info > button:hover {
+  cursor: focus;
+}
+.searchPage__info {
+  padding: 1.25rem;
+}
+.searchPage__info > h1 {
+  margin-bottom: 1rem;
+}
+
+.searchPage__info > p {
+  margin-bottom: 0.8rem;
+  font-size: 0.8rem;
+}

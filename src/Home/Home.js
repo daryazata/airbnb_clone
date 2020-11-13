@@ -9,14 +9,10 @@ import Footer from "../Footer/Footer";
 function Home() {
   return (
     <div className="home">
-      {/* Banner */}
       <Banner />
-      {/* Section */}
+
       <Section data={cards_intro} />
       <Section data={cards_homes} />
-
-      {/* Footer */}
-      <Footer />
     </div>
   );
 }
